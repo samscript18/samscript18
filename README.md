@@ -15,6 +15,9 @@ I'm Adesugba Samuel. I'm a passionate developer with a love for coding, learning
 -  📫 How to reach me: adesugbaolaoluwaade@gmail.com
 
 
+
+
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=samscript18&show_icons=true&bg_color=00000000)
 <br>
 <br>
