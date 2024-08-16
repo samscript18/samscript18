@@ -18,7 +18,7 @@ I'm Adesugba Samuel. I'm a passionate developer with a love for coding, learning
 
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=samscript18&show_icons=true&bg_color=00000000)
+/*![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=samscript18&show_icons=true&bg_color=00000000)
 <br>
 <br>
 <br>
@@ -26,4 +26,4 @@ I'm Adesugba Samuel. I'm a passionate developer with a love for coding, learning
 <br>
 <br>
 <br>
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=samscript18&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=samscript18&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)*/
