@@ -11,5 +11,5 @@ I'm Adesugba Samuel. I'm a passionate developer with a love for coding, learning
 -  💻 I enjoy working with various programming languages and technologies.
 -  🎓 I'm always looking to learn new skills and improve my existing ones.
 -  🌱 Currently exploring <strong>blockchain development</strong>
--  👯 I’m looking to work/collaborate on <strong>all web application projects.</strong>
+-  👯 I’m looking to work/collaborate on <strong>all web and mobile application projects.</strong>
 -  📫 How to reach me: adesugbaolaoluwaade@gmail.com
